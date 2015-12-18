@@ -3,8 +3,7 @@
     <div class="col-md-6">
     <div class="box box-info">
                 <div class="box-header with-border">
-                  <h3 class="box-title">New client<asp:Button ID="Button1" runat="server" Text="Button" />
-                    </h3>
+                  <h3 class="box-title">New client</h3>
                 </div><!-- /.box-header -->
                 <!-- form start -->
                 <div class="form-horizontal">

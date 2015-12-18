@@ -217,6 +217,19 @@
             End Set
         End Property
         Private m_displayName As String
+
+
+        Public Property govid() As String
+            Get
+                Return m_govid
+            End Get
+            Set
+                m_govid = Value
+            End Set
+        End Property
+        Private m_govid As String
+
+
         Public Property gender() As Gender
             Get
                 Return m_gender
